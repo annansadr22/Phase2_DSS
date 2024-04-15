@@ -1,0 +1,8 @@
+Mean response time: 492.9633974659784 milliseconds
+Median response time: 67.0 milliseconds
+P99 response time: 1029.0 milliseconds
+Min response time: 20 milliseconds
+Max response time: 2101 milliseconds
+Total response time: 4202020 milliseconds
+Total time taken: 131188 milliseconds
+Throughput: 76.22648412964601 requests per second
